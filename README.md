@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Welcome Banner](https://github.com/yourusername/repo-name/path-to-image.png)
+
+
 <!--
 **bbaghirzada/bbaghirzada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
