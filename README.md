@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Welcome Banner](https://github.com/yourusername/repo-name/path-to-image.png)
+![Welcome Banner]([https://github.com/yourusername/repo-name/path-to-image.png](https://github.com/bbaghirzada/bbaghirzada/blob/bbaghirzada/Beige%20Modern%20Elegant%20Personal%20LinkedIn%20Banner(1).png))
 
 
 <!--
