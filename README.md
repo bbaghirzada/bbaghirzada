@@ -6,17 +6,12 @@
 
 I’m passionate about transforming complex datasets into clear, actionable insights that guide strategic decisions and enhance operational efficiency. With hands-on experience in SQL, Python, and Tableau, I thrive on uncovering the stories hidden in data and using them to solve real-world problems.
 
- 🔍 I’m specialized in Business Intelligence Analytics, because my entrepreneurial mindset and business acumen help me in critical thinking and problem solving augmented with data.
- 🎯 My goal is to contribute to projects that use data to make successful impact.
- 💡 Fun fact: I enjoy combining my love for data with storytelling to make insights more relatable.
+- 🔍 I’m specialized in Business Intelligence Analytics, because my entrepreneurial mindset and business acumen help me in critical thinking and problem solving augmented with data.
+- 🎯 My goal is to contribute to projects that use data to make successful impact.
+- 💡 Fun fact: I enjoy combining my love for data with storytelling to make insights more relatable.
+- 🌱 I’m currently learning Phyton and more in depth analytical skills as well as Lithuanian Language🇱🇹
+- 👯 My Lifestyle is all about creating myself as a successful individual thus outside work I’m engaged in active life from sports to nature and playing chess, which keep me active, healthy and brings me joy.
 
-<div style="border: 2px solid #e1e4e8; padding: 10px; border-radius: 10px;">
-  <ul>
-    <li>🔭 I’m currently working on <strong>[Project Name]</strong></li>
-    <li>🌱 I’m currently learning <strong>Phyton and more in depth analytical skills as well as Lithuanian Language🇱🇹</strong></li>
-    <li>👯 My Lifestyle is all about creating myself as a successful individual thus outside work I’m engaged in active life from sports to nature and playing chess, which keep me active, healthy and brings me joy</li>
-  </ul>
-</div>
 
 ## <span style="color: #00BFFF;">Tools I Use</span>
    
