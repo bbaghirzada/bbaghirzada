@@ -11,11 +11,11 @@ I’m passionate about transforming complex datasets into clear, actionable insi
         ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
         ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm <span style="color: #00BFFF;">[Your Name]</span> 👋
 
 <img src="https://your-image-url.com" alt="Header Image" style="width:100%; border-radius:10px;">
 
-## About Me
+## <span style="color: #00BFFF;">About Me</span>
 <div style="border: 2px solid #e1e4e8; padding: 10px; border-radius: 10px;">
   I'm a passionate developer with a love for creating innovative solutions. Here are a few things about me:
   <ul>
@@ -27,7 +27,7 @@ I’m passionate about transforming complex datasets into clear, actionable insi
   </ul>
 </div>
 
-## Skills
+## <span style="color: #00BFFF;">Skills</span>
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -35,33 +35,28 @@ I’m passionate about transforming complex datasets into clear, actionable insi
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
 </div>
 
-## GitHub Stats
+## <span style="color: #00BFFF;">GitHub Stats</span>
 <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Your GitHub stats" style="width: 100%; border-radius: 10px;">
 
-## Top Languages
+## <span style="color: #00BFFF;">Top Languages</span>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" style="width: 100%; border-radius: 10px;">
 
-## Connect with Me
+## <span style="color: #00BFFF;">Connect with Me</span>
 <div style="display: flex; flex-wrap: wrap;">
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </div>
 
-## Recent Blog Posts
+## <span style="color: #00BFFF;">Recent Blog Posts</span>
 <!-- BLOG-POST-LIST:START -->
 - Post Title
 - Post Title
 <!-- BLOG-POST-LIST:END -->
 
-## Fun Fact
+## <span style="color: #00BFFF;">Fun Fact</span>
 <div style="border: 2px solid #e1e4e8; padding: 10px; border-radius: 10px;">
   Did you know? [Insert a fun fact about yourself or your work]
 </div>
 
-## Spotify Now Playing
-!Spotify
-
-## Visitor Counter
-!Visitor Count
 
 
