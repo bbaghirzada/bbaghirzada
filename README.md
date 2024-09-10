@@ -11,47 +11,58 @@ I’m passionate about transforming complex datasets into clear, actionable insi
         ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
         ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-<h1 style="color:#64ffda;">Hello, my name is</h1>
+<html lang="en">
+    <div style="margin: 0;
+            padding: 4%;
+            font-family: 'Arial', sans-serif;
+            background-color: #0a192f;
+            color: #ccd6f6;
+            font-family: 'source code pro';">
+        <h1
+        style="
+         color: #64ffda;
+            font-size: 48px;
+            margin-top: 50px;" >Hello, my name is</h1>
+        <h2
+        style="
+            font-size: 80px;
+            font-weight: bold;
+            color: #ccd6f6;
+            margin-top: -20px;
+            margin-bottom:10px; ">Baldadash Baghirzade</h2>
+        <h3
+        style="
+            font-size: 18px;
+            color: #64ffda;
+            margin-bottom: 40px;
+        ">I see myself as <strong>"Business Intelligence Analyst"</strong></h3>
+<p 
+        style= "
+            font-size: 14px;
+            color: #b2b6c3;
+            max-width: 500px;
+            text-align: left;
+            font-family: 'Source Code Pro' ">I’m passionate about transforming complex datasets into clear,
+             actionable insights that guide strategic
+             decisions and enhance operational efficiency. </p>
+<p 
+        style="
+            font-size: 14px;
+            color: #b2b6c3;
+            max-width: 500px;
+            text-align: left;
+            font-family: 'Source Code Pro'">I enjoy learning new skills and implementing them in real life!</p>
 
-<h2 style="font-size: 3em; color: #ccd6f6;">Baldadash Baghirzade</h2>
-
-<h3 style="font-size: 1.5em; color: #64ffda;">I see myself as a <strong>"Business Intelligence Analyst"</strong></h3>
-
-<p style="max-width: 500px; color: #b2b6c3;">
-    I’m passionate about transforming complex datasets into clear, actionable insights that guide strategic decisions and enhance operational efficiency.
-</p>
-
-<p style="max-width: 500px; color: #b2b6c3;">
-    I enjoy learning new skills and implementing them in real life!
-</p>
-
-<!-- Contact Button -->
-<a href="mailto:bbaghirzada@gmail.com" style="padding: 10px 20px; border: 2px solid #64ffda; color: #64ffda; text-decoration: none; font-size: 18px; border-radius: 5px; display: inline-block; margin-top: 20px;">
-    Get In Touch
-</a>
-
-<hr>
-
-<!-- Social Links -->
-<div style="display: flex; align-items: center; gap: 15px; margin-top: 40px;">
-    <a href="https://github.com/yourprofile" style="color: #64ffda; font-size: 24px; text-decoration: none;">GitHub</a>
-    <a href="https://linkedin.com/in/yourprofile" style="color: #64ffda; font-size: 24px; text-decoration: none;">LinkedIn</a>
-    <a href="https://instagram.com/yourprofile" style="color: #64ffda; font-size: 24px; text-decoration: none;">Instagram</a>
-</div>
-
-<hr>
-
-<!-- Email Section -->
-<div style="writing-mode: vertical-rl; text-orientation: mixed; position: fixed; right: 20px; top: 150px; font-size: 16px; color: #64ffda;">
-    <a href="mailto:bbaghirzada@gmail.com" style="color: #64ffda; text-decoration: none;">bbaghirzada@gmail.com</a>
-</div>
-
-<!-- Navigation Menu -->
-<ul style="list-style: none; display: flex; gap: 30px; margin-top: 20px;">
-    <li><a href="#about" style="color: #64ffda; text-decoration: none; font-size: 18px;">01. About</a></li>
-    <li><a href="#experience" style="color: #64ffda; text-decoration: none; font-size: 18px;">02. Experience</a></li>
-    <li><a href="#projects" style="color: #64ffda; text-decoration: none; font-size: 18px;">03. Projects</a></li>
-    <li><a href="#contact" style="color: #64ffda; text-decoration: none; font-size: 18px;">04. Contact</a></li>
-    <li><a href="#resume" style="color: #64ffda; text-decoration: none; font-size: 18px; border: 2px solid #64ffda; padding: 5px 15px; border-radius: 5px;">Resume</a></li>
-</ul>
+        <!-- Contact Button -->
+<div style="margin-top: 50px;">
+            <a href="#" 
+            style="padding: 10px 20px;
+            border: 2px solid #64ffda;
+            color: #64ffda;
+            text-decoration: none;
+            font-size: 18px;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;";
+            >Get In Touch</a>
+        </div> </div>
 
