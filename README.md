@@ -7,18 +7,16 @@ I’m passionate about transforming complex datasets into clear, actionable insi
     🎯 My goal is to contribute to projects that use data to create real-world impact.
     💡 Fun fact: I enjoy combining my love for data with storytelling to make insights more relatable.
 
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+        ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+        ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 🛠 Tools I Use:
 
     Programming Languages:
-        ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-        ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-        ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
     Data Analysis: Cohorts, Funnel Analysis, A/B Testing
     Other Tools: Git, MS Excel, Google Analytics
 
-    <a href="https://github.com/yourusername" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; border-radius: 5px; text-decoration: none;">
-  Visit My GitHub
-</a>
+  
 
 
 📊 Projects
@@ -37,3 +35,8 @@ Project 2: Predictive Analytics for Customer Retention
     LinkedIn
     Twitter
     Email
+
+
+  <a href="https://github.com/yourusername" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; border-radius: 5px; text-decoration: none;">
+  Visit My GitHub
+</a>
