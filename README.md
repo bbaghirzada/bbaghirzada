@@ -1,20 +1,17 @@
 ![Welcome Banner](https://github.com/bbaghirzada/bbaghirzada/blob/bbaghirzada/Beige%20Modern%20Elegant%20Personal%20LinkedIn%20Banner(1).png)
 
+🚀ABOUT ME
+I’m passionate about transforming complex datasets into clear, actionable insights that guide strategic decisions and enhance operational efficiency. With hands-on experience in SQL, Python, and Tableau, I thrive on uncovering the stories hidden in data and using them to solve real-world problems.
 
-I’m a Data Analyst passionate about using data to solve real-world problems. With a solid background in SQL, Python, Tableau, and Business Intelligence, I enjoy transforming complex datasets into actionable insights that drive decision-making and business growth.
-🚀 About Me
-
-    🌱 I’m currently honing my skills in Machine Learning and Predictive Analytics.
-    🔍 I’m specialized in Data Analytics, focusing on critical thinking and problem-solving.
+    🔍 I’m specialized in Business Intelligence Analytics, focusing on critical thinking argumented with data and problem-solving.
     🎯 My goal is to contribute to projects that use data to create real-world impact.
     💡 Fun fact: I enjoy combining my love for data with storytelling to make insights more relatable.
 
-🛠 Skills
+🛠 Tools I Use:
 
-    Programming Languages: Python, SQL
-    Data Visualization: Tableau, Matplotlib, Seaborn
-    Database Management: MySQL, PostgreSQL
-    Data Analysis: Pandas, NumPy, A/B Testing
+    Programming Languages:
+        ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white); ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white); ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+    Data Analysis: Cohorts, Funnel Analysis, A/B Testing
     Other Tools: Git, MS Excel, Google Analytics
 
 📊 Projects
