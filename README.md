@@ -16,6 +16,11 @@ I’m passionate about transforming complex datasets into clear, actionable insi
     Data Analysis: Cohorts, Funnel Analysis, A/B Testing
     Other Tools: Git, MS Excel, Google Analytics
 
+    <a href="https://github.com/yourusername" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; border-radius: 5px; text-decoration: none;">
+  Visit My GitHub
+</a>
+
+
 📊 Projects
 Project 1: Sales Data Analysis
 
