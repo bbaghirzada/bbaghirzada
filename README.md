@@ -16,27 +16,54 @@ I’m passionate about transforming complex datasets into clear, actionable insi
     Data Analysis: Cohorts, Funnel Analysis, A/B Testing
     Other Tools: Git, MS Excel, Google Analytics
 
-  
 
 
-📊 Projects
-Project 1: Sales Data Analysis
+<div style="text-align: center; padding: 50px; background-color: #f4f4f9; font-family: Arial, sans-serif;">
+  <div style="border-radius: 10px; padding: 30px; background-color: #ffffff; box-shadow: 0 4px 8px rgba(0,0,0,0.1); max-width: 800px; margin: auto;">
+    
+    <!-- Header Section -->
+<h1 style="color: #333333; font-size: 40px; font-weight: bold; margin-bottom: 10px;">👋 Welcome to My GitHub!</h1>
+    <p style="font-size: 18px; color: #666666;"> I'm passionate about <strong>Data Analytics</strong>, <strong>Business Intelligence</strong>, and <strong>Programming</strong>. This is where I share my projects, code, and ideas.</p>
+    
+    <!-- About Me Section -->
+<div style="margin: 40px 0;">
+      <h2 style="color: #4CAF50; font-size: 28px; font-weight: bold;">About Me</h2>
+      <p style="font-size: 16px; color: #666666; line-height: 1.6;">
+        I'm a <strong>Data Analyst</strong> specializing in Python, SQL, Tableau, and predictive analytics. I enjoy working on data-driven projects that solve real-world problems and help businesses thrive.
+      </p>
+</div>
 
-    Analyzed sales data to identify key trends and recommend strategic actions.
-    Built interactive dashboards using Tableau to visualize data insights.
+    <!-- Tools Section -->
+<div style="margin: 40px 0;">
+      <h2 style="color: #4CAF50; font-size: 28px; font-weight: bold;">Tools I Use</h2>
+      <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="50px" style="border-radius: 50%;">
+        <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL" width="50px" style="border-radius: 50%;">
+        <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50px" style="border-radius: 50%;">
+        <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="GitHub" width="50px" style="border-radius: 50%;">
+      </div>
+    </div>
 
-Project 2: Predictive Analytics for Customer Retention
-
-    Created a machine learning model to predict customer churn and developed strategies to improve retention.
-    Used Python and Pandas for data preprocessing and feature engineering.
-
-🌍 Connect with Me
-
-    LinkedIn
-    Twitter
-    Email
-
-
-  <a href="https://github.com/yourusername" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; border-radius: 5px; text-decoration: none;">
-  Visit My GitHub
-</a>
+    <!-- Contact Section -->
+<div style="margin: 40px 0;">
+      <h2 style="color: #4CAF50; font-size: 28px; font-weight: bold;">Let's Connect</h2>
+      <p style="font-size: 16px; color: #666666;">Feel free to connect with me on:</p>
+      <div style="display: flex; justify-content: center; gap: 20px;">
+        <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+          <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="40px">
+        </a>
+        <a href="https://www.instagram.com/yourusername" target="_blank">
+          <img src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="Instagram" width="40px">
+        </a>
+        <a href="mailto:yourname@example.com">
+          <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="Gmail" width="40px">
+        </a>
+      </div>
+    </div>
+    
+    <!-- Footer -->
+<div style="margin-top: 40px;">
+      <p style="font-size: 14px; color: #999999;">Made with ❤️ by [Your Name]</p>
+    </div>
+  </div>
+</div>
