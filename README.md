@@ -1,19 +1,32 @@
-## Hi there 👋
+I’m a Data Analyst passionate about using data to solve real-world problems. With a solid background in SQL, Python, Tableau, and Business Intelligence, I enjoy transforming complex datasets into actionable insights that drive decision-making and business growth.
+🚀 About Me
 
-![Welcome Banner]([https://github.com/yourusername/repo-name/path-to-image.png](https://github.com/bbaghirzada/bbaghirzada/blob/bbaghirzada/Beige%20Modern%20Elegant%20Personal%20LinkedIn%20Banner(1).png))
+    🌱 I’m currently honing my skills in Machine Learning and Predictive Analytics.
+    🔍 I’m specialized in Data Analytics, focusing on critical thinking and problem-solving.
+    🎯 My goal is to contribute to projects that use data to create real-world impact.
+    💡 Fun fact: I enjoy combining my love for data with storytelling to make insights more relatable.
 
+🛠 Skills
 
-<!--
-**bbaghirzada/bbaghirzada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    Programming Languages: Python, SQL
+    Data Visualization: Tableau, Matplotlib, Seaborn
+    Database Management: MySQL, PostgreSQL
+    Data Analysis: Pandas, NumPy, A/B Testing
+    Other Tools: Git, MS Excel, Google Analytics
 
-Here are some ideas to get you started:
+📊 Projects
+Project 1: Sales Data Analysis
 
-- 🔭 I’m currently working on my career and development as Business Intelligence Analyst
-- 🌱 I’m currently learning Phyton and doing more practicals
-- 👯 I’m looking to collaborate on knowledge management and staff development
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Analyzed sales data to identify key trends and recommend strategic actions.
+    Built interactive dashboards using Tableau to visualize data insights.
+
+Project 2: Predictive Analytics for Customer Retention
+
+    Created a machine learning model to predict customer churn and developed strategies to improve retention.
+    Used Python and Pandas for data preprocessing and feature engineering.
+
+🌍 Connect with Me
+
+    LinkedIn
+    Twitter
+    Email
