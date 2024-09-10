@@ -1,4 +1,4 @@
-![Welcome Banner](https://github.com/bbaghirzada/bbaghirzada/blob/bbaghirzada/Hello%20my%20name%20is.png)
+![Welcome Banner](https://github.com/bbaghirzada/bbaghirzada/blob/bbaghirzada/Beige%20Modern%20Elegant%20Personal%20LinkedIn%20Banner(1).png)
 
 # Hi there, I'm <span style="color: #00BFFF;">BALDADASH</span> 👋
 
