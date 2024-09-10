@@ -1,4 +1,4 @@
-![Welcome Banner](https://github.com/yourusername/repo-name/path-to-image.png)
+![Welcome Banner](https://github.com/bbaghirzada/bbaghirzada/blob/bbaghirzada/Beige%20Modern%20Elegant%20Personal%20LinkedIn%20Banner(1).png)
 
 
 I’m a Data Analyst passionate about using data to solve real-world problems. With a solid background in SQL, Python, Tableau, and Business Intelligence, I enjoy transforming complex datasets into actionable insights that drive decision-making and business growth.
