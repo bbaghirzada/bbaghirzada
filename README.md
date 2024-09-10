@@ -1,6 +1,7 @@
 ![Welcome Banner](https://github.com/bbaghirzada/bbaghirzada/blob/bbaghirzada/Beige%20Modern%20Elegant%20Personal%20LinkedIn%20Banner(1).png)
 
-🚀ABOUT ME
+# Hi there, I'm <span style="color: #00BFFF;">[Your Name]</span> 👋
+
 I’m passionate about transforming complex datasets into clear, actionable insights that guide strategic decisions and enhance operational efficiency. With hands-on experience in SQL, Python, and Tableau, I thrive on uncovering the stories hidden in data and using them to solve real-world problems.
 
     🔍 I’m specialized in Business Intelligence Analytics, focusing on critical thinking argumented with data and problem-solving.
@@ -11,27 +12,7 @@ I’m passionate about transforming complex datasets into clear, actionable insi
         ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
         ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-<h3 align="left" style="color:#64ffda;">Hello, my name is</h3>
 
-<h1 align="left" style="color:#ccd6f6; font-size: 60px; font-weight:bold;">Baldadash Baghirzade</h1>
-
-<h2 align="left" style="color:#64ffda;">I see myself as <strong>"Business Intelligence Analyst"</strong></h2>
-
-<p align="left" style="color:#b2b6c3; max-width:500px;">
-    I’m passionate about transforming complex datasets into clear, actionable insights that guide strategic decisions and enhance operational efficiency.
-</p>
-
-<p align="left" style="color:#b2b6c3; max-width:500px;">
-    I enjoy learning new skills and implementing them in real life!
-</p>
-
-<br>
-
-<a href="mailto:bbaghirzada@gmail.com" style="text-decoration:none;">
-    <button style="background-color:transparent; border: 2px solid #64ffda; color:#64ffda; padding:10px 20px; font-size:16px; border-radius:5px;">Get In Touch</button>
-</a>
-
-# Hi there, I'm <span style="color: #00BFFF;">[Your Name]</span> 👋
 
 <img src="https://your-image-url.com" alt="Header Image" style="width:100%; border-radius:10px;">
 
