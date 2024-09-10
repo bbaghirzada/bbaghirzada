@@ -3,10 +3,10 @@
 # Hi there, I'm <span style="color: #00BFFF;">BALDADASH</span> 👋
 
 I’m passionate about transforming complex datasets into clear, actionable insights that guide strategic decisions and enhance operational efficiency. With hands-on experience in SQL, Python, and Tableau, I thrive on uncovering the stories hidden in data and using them to solve real-world problems.
+- 🔍 I’m specialized in Business Intelligence Analytics, because my entrepreneurial mindset and business acumen help me in critical thinking and problem solving augmented with data.
+- 🎯 My goal is to contribute to projects that use data to make successful impact.
+- 💡 Fun fact: I enjoy combining my love for data with storytelling to make insights more relatable.
 
- <li style="list-style: none;">🔍 I’m specialized in Business Intelligence Analytics, becuase my entrepreneurial mindset and business acumen help me in critical thinking and problem solving argumented with data.</li>
-    <li style="list-style: none;">🎯 My goal is to contribute to projects that use data to make successsful impact.</li>
-     <li style="list-style: none;">💡 Fun fact: I enjoy combining my love for data with storytelling to make insights more relatable.</li>
 
   
 ## <span style="color: #00BFFF;">About Me</span>
