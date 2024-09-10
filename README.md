@@ -58,3 +58,10 @@ I’m passionate about transforming complex datasets into clear, actionable insi
   Did you know? [Insert a fun fact about yourself or your work]
 </div>
 
+## Spotify Now Playing
+!Spotify
+
+## Visitor Counter
+!Visitor Count
+
+
