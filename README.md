@@ -11,58 +11,50 @@ I’m passionate about transforming complex datasets into clear, actionable insi
         ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
         ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-<html lang="en">
-    <div style="margin: 0;
-            padding: 4%;
-            font-family: 'Arial', sans-serif;
-            background-color: #0a192f;
-            color: #ccd6f6;
-            font-family: 'source code pro';">
-        <h1
-        style="
-         color: #64ffda;
-            font-size: 48px;
-            margin-top: 50px;" >Hello, my name is</h1>
-        <h2
-        style="
-            font-size: 80px;
-            font-weight: bold;
-            color: #ccd6f6;
-            margin-top: -20px;
-            margin-bottom:10px; ">Baldadash Baghirzade</h2>
-        <h3
-        style="
-            font-size: 18px;
-            color: #64ffda;
-            margin-bottom: 40px;
-        ">I see myself as <strong>"Business Intelligence Analyst"</strong></h3>
-<p 
-        style= "
-            font-size: 14px;
-            color: #b2b6c3;
-            max-width: 500px;
-            text-align: left;
-            font-family: 'Source Code Pro' ">I’m passionate about transforming complex datasets into clear,
-             actionable insights that guide strategic
-             decisions and enhance operational efficiency. </p>
-<p 
-        style="
-            font-size: 14px;
-            color: #b2b6c3;
-            max-width: 500px;
-            text-align: left;
-            font-family: 'Source Code Pro'">I enjoy learning new skills and implementing them in real life!</p>
+# Hi there, I'm [Your Name] 👋
 
-        <!-- Contact Button -->
-<div style="margin-top: 50px;">
-            <a href="#" 
-            style="padding: 10px 20px;
-            border: 2px solid #64ffda;
-            color: #64ffda;
-            text-decoration: none;
-            font-size: 18px;
-            border-radius: 5px;
-            transition: background-color 0.3s ease;";
-            >Get In Touch</a>
-        </div> </div>
+<img src="https://your-image-url.com" alt="Header Image" style="width:100%; border-radius:10px;">
+
+## About Me
+<div style="border: 2px solid #e1e4e8; padding: 10px; border-radius: 10px;">
+  I'm a passionate developer with a love for creating innovative solutions. Here are a few things about me:
+  <ul>
+    <li>🔭 I’m currently working on <strong>[Project Name]</strong></li>
+    <li>🌱 I’m currently learning <strong>[Technology/Skill]</strong></li>
+    <li>👯 I’m looking to collaborate on <strong>[Project/Idea]</strong></li>
+    <li>💬 Ask me about <strong>[Topic]</strong></li>
+    <li>📫 How to reach me: <strong>[Email/LinkedIn]</strong></li>
+  </ul>
+</div>
+
+## Skills
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+</div>
+
+## GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Your GitHub stats" style="width: 100%; border-radius: 10px;">
+
+## Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" style="width: 100%; border-radius: 10px;">
+
+## Connect with Me
+<div style="display: flex; flex-wrap: wrap;">
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+</div>
+
+## Recent Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- Post Title
+- Post Title
+<!-- BLOG-POST-LIST:END -->
+
+## Fun Fact
+<div style="border: 2px solid #e1e4e8; padding: 10px; border-radius: 10px;">
+  Did you know? [Insert a fun fact about yourself or your work]
+</div>
 
