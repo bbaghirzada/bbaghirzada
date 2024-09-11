@@ -1,13 +1,13 @@
 ![Welcome Banner](https://github.com/bbaghirzada/bbaghirzada/blob/bbaghirzada/Beige%20Modern%20Elegant%20Personal%20LinkedIn%20Banner(1).png)
 
-# Hi there, I'm <span style="color: #00BFFF;">BALDADASH</span> 👋
+# Hi there, I'm <span style="color: #00BFFF;">BALDADASH♛</span> 👋
 < WELCOME TO THE WORLD OF DATA FROM MY VIEW />
 
 ![Profile views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-profile)](https://www.linkedin.com/in/baldadash-baghirzade/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your-email@gmail.com)](mailto:bbaghirzada@gmail.com)
 
-<p style="font-family🇲🇸">I’m passionate about transforming complex datasets into clear, actionable insights that guide strategic decisions and enhance operational efficiency. With hands-on experience in SQL, Python, and Tableau, I thrive on uncovering the stories hidden in data and using them to solve real-world problems.
+<p style="font-family🇲🇸">👾I’m passionate about transforming complex datasets into clear, actionable insights that guide strategic decisions and enhance operational efficiency. With hands-on experience in SQL, Python, and Tableau, I thrive on uncovering the stories hidden in data and using them to solve real-world problems🧞‍♂️.
 
 
 ## <span style="color: #00BFFF;"></span>
@@ -28,7 +28,7 @@
 
 ## <span style="color: #00BFFF;">Fun Fact</span>
 <div style="border: 2px solid #e1e4e8; padding: 10px; border-radius: 10px;">
-  Did you know? I am 24 years old and I have almost all kind of education in digital? I can create my own website using html/CSS/ Javascrip/ Bootstrap or Manage a social media account of a company and do paid advertisement? Or, there is more than that do you know that I always have a sturtup idea that I believe can succeed and solve customer problems with entrepreneurial marketing and emotional connection? Yes, that's right I am an undiscovered talent trying to find himself in a sphere and I belive data where I am belong to where I can use all these I have learned before and implement.
+  Do you know❓❓ I am 23 years old and I have almost all kind of education in digital💡? I can create my own website using html/CSS/ Javascrip/ Bootstrap or Manage a social media account of a company and do paid advertisement? Or, there is more than that do you know that I always have a sturtup idea that I believe can succeed and solve customer problems with entrepreneurial marketing and emotional connection? Yes, that's right I am an undiscovered talent trying to find himself in a sphere and I belive data I am belong to data field where I can use all these experiences I have learned before and implement.🧑‍💻
 </div>
 
 ## <span style="color: #00BFFF;">Connect with Me</span>
