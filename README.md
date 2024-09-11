@@ -3,7 +3,7 @@
 # Hi there, I'm <span style="color: #00BFFF;">BALDADASH</span> 👋
 < WELCOME TO THE WORLD OF DATA FROM MY VIEW />
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-profile)]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/baldadash-baghirzade/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-profile)](https://www.linkedin.com/in/baldadash-baghirzade/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your-email@gmail.com)](mailto:bbaghirzada@gmail.com)
 
 ![Profile views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
