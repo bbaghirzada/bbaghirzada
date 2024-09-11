@@ -34,13 +34,8 @@
   
 </div> 
 
-## <span style="color: #00BFFF;">Recent Blog Posts</span>
-<!-- BLOG-POST-LIST:START -->
-- Post Title
-- Post Title
-<!-- BLOG-POST-LIST:END -->
 
 ## <span style="color: #00BFFF;">Fun Fact</span>
 <div style="border: 2px solid #e1e4e8; padding: 10px; border-radius: 10px;">
-  Did you know? [Insert a fun fact about yourself or your work]
+  Did you know? I am 24 years old and I have almost all kind of education in digital? I can create my own website using html/CSS/ Javascrip/ Bootstrap or Manage a social media account of a company and do paid advertisement? Or, there is more than that do you know that I always have a sturtup idea that I believe can succeed and solve customer problems with entrepreneurial marketing and emotional connection? Yes, that's right I am an undiscovered talent trying to find himself in a sphere and I belive data where I am belong to where I can use all these I have learned before and implement.
 </div>
