@@ -12,6 +12,8 @@
 
 ## <span style="color: #00BFFF;">About Me</span>
 
+![About Me Banner](https://github.com/bbaghirzada/bbaghirzada/blob/bbaghirzada/Sunrise%20Horizon.png)
+
 <p style="font-family🇲🇸">I’m passionate about transforming complex datasets into clear, actionable insights that guide strategic decisions and enhance operational efficiency. With hands-on experience in SQL, Python, and Tableau, I thrive on uncovering the stories hidden in data and using them to solve real-world problems.
 
 - 🔍 I’m specialized in Business Intelligence Analytics, because my entrepreneurial mindset and business acumen help me in critical thinking and problem solving augmented with data.
