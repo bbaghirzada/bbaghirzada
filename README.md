@@ -1,6 +1,6 @@
 ![Welcome Banner](https://github.com/bbaghirzada/bbaghirzada/blob/bbaghirzada/Beige%20Modern%20Elegant%20Personal%20LinkedIn%20Banner(1).png)
 
-# Hi there, I'm <span style="color: #00BFFF;">BALDADASH♛</span> 👋
+# Hi there, I'm <span style="color: #00BFFF;">BALDADASH</span> 👋
 < WELCOME TO THE WORLD OF DATA FROM MY VIEW />
 
 ![Profile views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
