@@ -1,6 +1,16 @@
 ![Welcome Banner](https://github.com/bbaghirzada/bbaghirzada/blob/bbaghirzada/Beige%20Modern%20Elegant%20Personal%20LinkedIn%20Banner(1).png)
 
 # Hi there, I'm <span style="color: #00BFFF;">BALDADASH</span> 👋
+< WELCOME TO THE WORLD OF DATA FROM MY VIEW />
+
+# Welcome to my humble abode in the Data World
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-profile)](https://www.linkedin.com/in/your-linkedin-profile)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your-email@gmail.com)](mailto:your-email@gmail.com)
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/your-channel)](https://www.youtube.com/your-channel)
+
+![Profile views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+
 
 ## <span style="color: #00BFFF;">About Me</span>
 
