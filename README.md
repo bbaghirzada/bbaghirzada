@@ -12,7 +12,7 @@
 
 ## <span style="color: #00BFFF;">About Me</span>
 
-![About Me Banner](https://github.com/bbaghirzada/bbaghirzada/blob/bbaghirzada/Sunrise%20Horizon.png)
+![About Me Banner](https://github.com/bbaghirzada/bbaghirzada/blob/bbaghirzada/About%20me.png)
 
 <p style="font-family🇲🇸">I’m passionate about transforming complex datasets into clear, actionable insights that guide strategic decisions and enhance operational efficiency. With hands-on experience in SQL, Python, and Tableau, I thrive on uncovering the stories hidden in data and using them to solve real-world problems.
 
