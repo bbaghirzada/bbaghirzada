@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bbaghirzada&label=Profile%20views&color=0e75b6&style=flat" alt="bbaghirzada" /> </p>
 
 - 🔭 I’m currently working on **Individual Projects to improve practical skills**
-
+- 
 - 🌱 I’m currently learning **API and WebScraping for data collection and analysis**
 
 - 👯 I’m looking to collaborate on **Real Projects that adds value**
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **bbaghirzada@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZbTw9cYB8OWkGO2GA_MqkFUJCc0mzb8G/view?usp=sharing](https://drive.google.com/file/d/1ZbTw9cYB8OWkGO2GA_MqkFUJCc0mzb8G/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1ZbTw9cYB8OWkGO2GA_MqkFUJCc0mzb8G/view?usp=sharing](https://drive.google.com/file/d/1ZbTw9cYB8OWkGO2GA_MqkFUJCc0mzb8G/view?usp=sharing">**Download CV**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
