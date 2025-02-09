@@ -1,34 +1,62 @@
-<h1 align="center">Hi 👋, I'm Baldadash Baghir</h1>
-<h3 align="center">A Data Analyst from Azerbaijan based in Lithuania</h3>
+<h1 align="center">Hi 👋, I'm Baldadash Baghir[he/him]</h1>
+<h3 align="center">A Data Analyst from Azerbaijan🇦🇿 based in Lithuania🇱🇹</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bbaghirzada&label=Profile%20views&color=0e75b6&style=flat" alt="bbaghirzada" /> </p>
 
-- 🔭 I’m currently working on **Individual Projects to improve practical skills**
+## 🚀 About Me
+I’m a passionate **Data Analyst** with a **curious mindset** and a love for solving complex business problems through data. I thrive on turning raw data into actionable insights that **drive business growth, change and innovation**. I am Constantly learning and adapting, I enjoy working with cutting-edge data analysis technologies to deliver impactful results.
+
+- 🔭 I’m currently working on **Individual Projects** to sharpen my skills.
+- 👯 I’m looking to collaborate on **Real-World Projects** that add value and solve meaningful problems.
+- 🤔 I’m passionate about **leveraging data to drive business growth and development.**
+- 👨‍💻 All of my projects are available at <a href=https://github.com/bbaghirzada](https://github.com/bbaghirzada>**Github**</a>
+- 📫 How to reach me: <a href="mailto:youremail@example.com"> **bbaghirzada@gmail.com** </a>
+- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1ZbTw9cYB8OWkGO2GA_MqkFUJCc0mzb8G/view?usp=sharing"> **Download CV**</a>
+## 🛠️ Technologies & Tools
+Here are some of the technologies and tools I work with:
+
+- **Data Analyst Tools**: <br>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+- **Additional Tools I have knowledge with**: <br>
+  <div style="display: flex; gap: 10px;">
+    <img src="https://img.shields.io/badge/-HTML-61DAFB?style=flat-square&logo=html&logoColor=white" alt="HTML" style="padding: 5px, background-color: orange, color:black;">
+    <img src="https://img.shields.io/badge/-CSS-339933?style=flat-square&logo=css&logoColor=white" alt="CSS" style="padding: 5px;">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" style="padding: 5px;">
+</div>
   
-- 🌱 I’m currently learning **API and WebScraping for data collection and analysis**
+## 📈 GitHub Stats
+<div align="center" style="display: flex; gap: 10px; align: center">
+  <a href="https://github.com/bbaghirzada">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bbaghirzada&theme=dark">
+  </a>
+  <a href="https://github.com/bbaghirzada">
+    <img src="https://github-readme-stats.vercel.app/api?username=bbaghirzada&show_icons=true&theme=dark">
+  </a>
+  <a href="https://github.com/bbaghirzada">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbaghirzada&layout=compact&theme=dark">
+  </a>
+</div>
 
-- 👯 I’m looking to collaborate on **Real Projects that adds value**
+<h3 align="center"> 📫 Let's Connect! </h3>
+<div align ="center" style="display: flex; gap: 10px;">
+  <a href="https://www.linkedin.com/in/baldadash-baghirzade/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="padding: 5px;">
+  </a>
+  <a href="https://bbaghirzada.framer.website/">
+    <img src="https://img.shields.io/badge/-Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" style="padding: 5px;">
+  </a>
+  <a href="https://www.instagram.com/boryabagher/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" style="padding: 5px;">
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" style="padding: 5px;">
+  </a>
+</div>
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/bbaghirzada](https://github.com/bbaghirzada">**GitHUB Profile**</a>
+---
 
-- 💬 Ask me about **SQL, Python, Tableau and Business Development**
-
-- 📫 How to reach me **bbaghirzada@gmail.com**
-
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1ZbTw9cYB8OWkGO2GA_MqkFUJCc0mzb8G/view?usp=sharing](https://drive.google.com/file/d/1ZbTw9cYB8OWkGO2GA_MqkFUJCc0mzb8G/view?usp=sharing">**Download CV**</a>
-
-<h3 align="left" style='color: red'>Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bbaghirzada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bbaghirzada" height="30" width="40" /></a>
-<a href="https://instagram.com/boryabagher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="boryabagher" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/boryabaghir"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="boryabaghir" /></a></p><br>
-<br>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bbaghirzada&show_icons=true&locale=en" alt="bbaghirzada" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bbaghirzada&" alt="bbaghirzada" /></p>
+<h1 align="center"><a href="https://www.buymeacoffee.com/boryabaghir"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="boryabaghir" /></a></h1>
