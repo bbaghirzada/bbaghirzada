@@ -42,7 +42,7 @@ Here are some of the technologies and tools I work with:
 </div>
 
 <h3 align="center"> 📫 Let's Connect! </h3>
-<div align ="center" style="display: flex; gap: 10px;">
+<div align ="left" style="display: flex; gap: 10px;">
   <a href="https://www.linkedin.com/in/baldadash-baghirzade/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="padding: 5px;">
   </a>
