@@ -29,7 +29,7 @@ Here are some of the technologies and tools I work with:
 </div>
   
 ## 📈 GitHub Stats
-<div align="left" style="display: flex; gap: 10px; align: center">
+<div align="center" style="display: flex; gap: 10px; align: center">
   <a href="https://github.com/bbaghirzada">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=bbaghirzada&theme=dark">
   </a>
