@@ -55,8 +55,7 @@ Here are some of the technologies and tools I work with:
   <a href="mailto:youremail@example.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" style="padding: 5px;">
   </a>
-</div>
+</div><br>
 
----
 
-<h1 align="center"><a href="https://www.buymeacoffee.com/boryabaghir"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="boryabaghir" /></a></h1>
+<p align="center"><a href="https://www.buymeacoffee.com/boryabaghir"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="boryabaghir" /></a></p>
