@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Real Projects that adds value**
 
-- 👨‍💻 All of my projects are available at [https://github.com/bbaghirzada](https://github.com/bbaghirzada)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/bbaghirzada](https://github.com/bbaghirzada">**GitHUB Profile**</a>
 
 - 💬 Ask me about **SQL, Python, Tableau and Business Development**
 
