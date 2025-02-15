@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Baldadash Baghir[he/him]</h1>
+<h1 align="left">Hi 👋, I'm Baldadash Borya Baghirzada [he/him]</h1>
 <h3 align="left">A Data Analyst from Azerbaijan🇦🇿 based in Lithuania🇱🇹</h3>
 
 <div align ="left" style="display: flex; gap: 10px;">
