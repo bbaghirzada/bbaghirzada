@@ -18,7 +18,7 @@
 </div>
   
 ## 🚀 About Me
-I’m a passionate **Data Analyst** with a **curious mindset** and a love for solving complex business problems through data. I thrive on turning raw data into actionable insights that **drive business growth, change and innovation**. I am Constantly learning and adapting, I enjoy working with cutting-edge data analysis technologies to deliver impactful results.
+I’m a passionate **Data Analyst** with a **curious mindset** and a love for solving complex business problems through data. I thrive on turning raw data into actionable insights that **drive business growth, change and innovation**. I am Constantly learning and adapting, I enjoy working with cutting-edge data analysis technologies and dynamic work environments where teamwork appreciated for commong goals and objectives to deliver impactful results. **No Success Can Be Achieved With One Hand**
 
 - 🔭 I’m currently working on **Individual Projects** to sharpen my skills.
 - 👯 I’m looking to collaborate on **Real-World Projects** that add value and solve meaningful problems.
