@@ -18,14 +18,14 @@
 </div>
   
 ## 🚀 About Me
-I’m a passionate **Data Analyst** with a **curious mindset** and a love for solving complex business problems through data. I thrive on turning raw data into actionable insights that **drive business growth, change and innovation**. I am Constantly learning and adapting, I enjoy working with cutting-edge data analysis technologies and dynamic work environments where teamwork appreciated for common goals and objectives to deliver impactful results. **No Success Can Be Achieved With One Hand**
+I’m a **Data Analyst** with a **curious mindset** and a love for solving complex business problems through data. I thrive on turning raw data into actionable insights that **drive business growth, change and innovation**. I am Constantly learning and adapting to trends, I enjoy working with large datasets and being within a dynamic work environment where collaboration valued for common goals and objectives to deliver impactful results. 
 
 - 🔭 I’m currently working on **Individual Projects** to sharpen my skills.
 - 👯 I’m looking to collaborate on **Real-World Projects** that add value and solve meaningful problems.
 - 🤔 I’m passionate about **leveraging data to drive business growth and development.**
 - 👨‍💻 All of my projects are available at <a href=https://github.com/bbaghirzada](https://github.com/bbaghirzada>**Github**</a>
 - 📫 How to reach me: <a href="mailto:youremail@example.com"> **bbaghirzada@gmail.com** </a>
-- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1ZbTw9cYB8OWkGO2GA_MqkFUJCc0mzb8G/view?usp=sharing"> **Download CV**</a>
+
 ## 🛠️ Technologies & Tools
 Here are some of the technologies and tools I work with:
 
