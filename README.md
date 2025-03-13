@@ -1,6 +1,4 @@
 <h1 align="left">Hi 👋, I'm Baldadash Baghirzada [he/him]</h1>
-<h3 align="left">A Data Analyst from Azerbaijan🇦🇿 based in Lithuania🇱🇹</h3>
-
 <div align ="left" style="display: flex; gap: 10px;">
   <a href=# align="left"> <img src="https://komarev.com/ghpvc/?username=bbaghirzada&label=Profile%20views&color=0e75b6&style=flat" alt="bbaghirzada" /> </a>
   <a href="https://www.linkedin.com/in/baldadash-baghirzade/">
@@ -10,8 +8,8 @@
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" style="padding: 5px;">
   </a>
 </div>
+</br>
   
-## 🚀 About Me
 I’m a **Data Analyst** with a **curious mindset** and a love for solving complex business problems through data. I thrive on turning raw data into actionable insights that **drive business growth, change and innovation**. I am Constantly learning and adapting to trends, I enjoy working with large datasets and being within a dynamic work environment where collaboration valued for common goals and objectives to deliver impactful results. 
 
 - 🔭 I’m currently working on **Individual Projects** to sharpen my skills.
