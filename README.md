@@ -48,7 +48,7 @@ Here are some of the technologies and tools I work with:
   <a href="https://www.linkedin.com/in/baldadash-baghirzade/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="padding: 5px;">
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:bbaghirzada@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" style="padding: 5px;">
   </a>
 </div><br>
