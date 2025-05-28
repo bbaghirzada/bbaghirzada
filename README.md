@@ -10,7 +10,7 @@
 </div>
 </br>
   
-I am a **Data Scientist / Analyst** with endless curiosity, motivation, discipline, and the ability to dedicate time for longer periods to get work done! My academic journey equipped me with business thinking, entrepreneurial mindset, customer behavior analysis, and more that enables me to carry critical thinking combined with problem-solving, idea generation, which is generally called product development, to solve niche customer issues. And I so much love **Statistics**
+I am a **Data Scientist / Analyst** with endless curiosity, motivation, discipline, and the ability to dedicate time for longer periods to get work done! My academic journey equipped me with business thinking, entrepreneurial mindset, customer behavior analysis, and more that enables me to carry critical thinking combined with problem-solving to solve niche customer issues and business challenges to make data-driven decisions for improved performance.
 
 - 🔭 I’m currently working on **Individual Projects** to sharpen my skills.
 - 👯 I’m looking to collaborate on **Real-World Projects** that add value and solve meaningful problems.
