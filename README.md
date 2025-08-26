@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Baldadash Baghirzada [he/him]</h1>
+<h1 align="left">Hi 👋, I'm Davud Baghir [he/him]</h1>
 <div align ="left" style="display: flex; gap: 10px;">
   <a href=# align="left"> <img src="https://komarev.com/ghpvc/?username=bbaghirzada&label=Profile%20views&color=0e75b6&style=flat" alt="bbaghirzada" /> </a>
   <a href="https://www.linkedin.com/in/baldadash-baghirzade/">
