@@ -33,15 +33,7 @@ Here are some of the technologies and tools I work with:
     <img src="https://img.shields.io/badge/-CSS-339933?style=flat-square&logo=css&logoColor=white" alt="CSS" style="padding: 5px;">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" style="padding: 5px;">
 </div>
-  
-## 📈 GitHub Stats
-  <a href="https://github.com/bbaghirzada">
-    <img src="https://github-readme-stats.vercel.app/api?username=bbaghirzada&show_icons=true&theme=dark" style="width: 400px;">
-  </a>
-  <a href="https://github.com/bbaghirzada">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbaghirzada&layout=compact&theme=dark">
-  </a>
-</div>
+
 
 <h3 align="center"> 📫 Let's Connect! </h3>
 <div align ="center" style="display: flex; gap: 10px;">
