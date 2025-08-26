@@ -16,7 +16,7 @@ I am a **Data Scientist / Analyst** with endless curiosity, motivation, discipli
 - 👯 I’m looking to collaborate on **Real-World Projects** that add value and solve meaningful problems.
 - 🤔 I’m passionate about **leveraging data to drive business growth and development.**
 - 👨‍💻 All of my projects are available at <a href=https://github.com/bbaghirzada](https://github.com/bbaghirzada>**Github**</a>
-- 📫 How to reach me: <a href="mailto:bbaghirzada@gmail.com"> **bbaghirzada@gmail.com** </a>
+- 📫 How to reach me: <a href="mailto:bbaghirzada@gmail.com"> **davudbaghir@gmail.com** </a>
 
 ## 🛠️ Technologies & Tools
 Here are some of the technologies and tools I work with:
